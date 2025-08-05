@@ -38,7 +38,7 @@ export default function Home() {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-        Welcome to Your Homepage
+        Hello World from Trader Interactive Dealer Website
       </h1>
       <p style={paragraphStyles}>
         This is a simple homepage built with Gatsby and React. 
